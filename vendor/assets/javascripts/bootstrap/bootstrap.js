@@ -1,4 +1,4 @@
-//=require ./affix
+
 //=require ./alert
 //=require ./carousel
 //=require ./button
@@ -7,7 +7,7 @@
 //=require ./collapse
 //=require ./modal
 //=require ./popover
-//=/require ./scrollspy
+//=require ./scrollspy
 //=require ./tab
 //=require ./tooltip
 //=require ./transition

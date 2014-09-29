@@ -1,8 +1,8 @@
 require 'test_helper'
 
 class StaticPagesControllerTest < ActionController::TestCase
-  test "should get hone" do
-    get :hone
+  test "should get home" do
+    get :home
     assert_response :success
   end
 
